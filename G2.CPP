@@ -420,7 +420,7 @@ void endscreen()
   float k=-12,h=-12,i=640,spe=0;
   char ch;
 
-  //mainscreen();
+  mainscreen();
 
   randomize();
   do
